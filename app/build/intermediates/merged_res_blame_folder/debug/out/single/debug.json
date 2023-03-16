@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-anydpi_ic_password.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-anydpi\\ic_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-xxhdpi_ic_arrow.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-xxhdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-xhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-xhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-hdpi_ic_username.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-hdpi\\ic_username.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-anydpi_ic_username.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-anydpi\\ic_username.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-hdpi_ic_mail.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-hdpi\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-xxhdpi_ic_mail.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-xxhdpi\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-mdpi_ic_mail.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-mdpi\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-anydpi_ic_mail.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-anydpi\\ic_mail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-xxhdpi_ic_username.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-xxhdpi\\ic_username.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\font_kaushanscript_regular.ttf.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\font\\kaushanscript_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable_icons8_facebook.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable\\icons8_facebook.xml"
+    },
+    {
+        "merged": "com.remedios.first_application.app-merged_res-30:/layout_create_account.xml.flat",
+        "source": "com.remedios.first_application.app-main-32:/layout/create_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-hdpi_ic_arrow.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-hdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-xxhdpi_ic_person.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-xxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-hdpi_ic_password.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-hdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-mdpi_ic_person.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-mdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\layout-land_activity_login.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\layout-land\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-xhdpi_ic_arrow.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-xhdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable_ic_folder.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable\\ic_folder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\font_courgette_regular.ttf.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\font\\courgette_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\font_notoserif_regular.ttf.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\font\\notoserif_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-xhdpi_ic_username.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-xhdpi\\ic_username.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-hdpi_ic_person.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-hdpi\\ic_person.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\font_notoserif_bolditalic.ttf.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\font\\notoserif_bolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\layout_signing_up.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\layout\\signing_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-xhdpi_ic_password.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-xhdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-xxhdpi_ic_password.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-xxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\raw_flash_loading.json.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\raw\\flash_loading.json"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\layout-v28_create_account.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\layout-v28\\create_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable_isolder.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable\\isolder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-mdpi_ic_password.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-mdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-anydpi_ic_person.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-anydpi\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-mdpi_ic_username.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-mdpi\\ic_username.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\layout_create_account.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\layout\\create_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-xhdpi_ic_mail.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-xhdpi\\ic_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-mdpi_ic_arrow.png.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-mdpi\\ic_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\layout_welcome_page.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\layout\\welcome_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable_icons8_google.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable\\icons8_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-merged_res-30:\\drawable-anydpi_ic_arrow.xml.flat",
+        "source": "C:\\Users\\Ronnel\\Activity\\daemon\\7.6\\com.remedios.first_application.app-main-32:\\drawable-anydpi\\ic_arrow.xml"
+    }
+]

@@ -1,0 +1,3 @@
+com.remedios.first_application.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

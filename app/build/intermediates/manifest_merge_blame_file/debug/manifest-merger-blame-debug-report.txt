@@ -1,0 +1,103 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.remedios.first_application"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml
+10
+11    <permission
+11-->[androidx.core:core:1.9.0] C:\Users\Ronnel\Activity\caches\transforms-3\0802dc12b29cc0f51f0dac122ee64f37\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+12        android:name="com.remedios.first_application.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] C:\Users\Ronnel\Activity\caches\transforms-3\0802dc12b29cc0f51f0dac122ee64f37\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] C:\Users\Ronnel\Activity\caches\transforms-3\0802dc12b29cc0f51f0dac122ee64f37\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.remedios.first_application.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- <uses-permission android:name="android.permission.READ_CONTACTS" /> -->
+15-->[androidx.core:core:1.9.0] C:\Users\Ronnel\Activity\caches\transforms-3\0802dc12b29cc0f51f0dac122ee64f37\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] C:\Users\Ronnel\Activity\caches\transforms-3\0802dc12b29cc0f51f0dac122ee64f37\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+16    <!-- <uses-permission android:name="android.permission.CAMERA"/> -->
+17    <!-- <uses-permission android:name="android.permission.INTERNET"/> -->
+18    <application
+18-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:9:5-38:19
+19        android:allowBackup="true"
+19-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:10:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.9.0] C:\Users\Ronnel\Activity\caches\transforms-3\0802dc12b29cc0f51f0dac122ee64f37\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+21        android:dataExtractionRules="@xml/data_extraction_rules"
+21-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:11:9-65
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:fullBackupContent="@xml/backup_rules"
+24-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:12:9-54
+25        android:icon="@mipmap/ic_launcher"
+25-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:13:9-43
+26        android:label="@string/remedios"
+26-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:14:9-41
+27        android:supportsRtl="true"
+27-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:15:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.FirstApplication" >
+29-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:16:9-54
+30        <activity
+30-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:19:9-28:20
+31            android:name="com.remedios.first_application.SplashScreenActivity"
+31-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:20:13-49
+32            android:exported="true"
+32-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:22:13-36
+33            android:theme="@style/Theme.AppCompat.NoActionBar" >
+33-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:21:13-63
+34            <intent-filter>
+34-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:23:13-27:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:24:17-69
+35-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:24:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:25:17-77
+37-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:25:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity
+40-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:29:9-32:20
+41            android:name="com.remedios.first_application.WelcomePage"
+41-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:30:13-40
+42            android:exported="true" >
+42-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:31:13-36
+43        </activity>
+44        <activity
+44-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:34:9-37:20
+45            android:name="com.remedios.first_application.CreateAccount"
+45-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:35:13-42
+46            android:exported="true" >
+46-->C:\Users\Ronnel\Developer\MD4P\FirstApplication\app\src\main\AndroidManifest.xml:36:13-36
+47        </activity>
+48
+49        <provider
+49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ronnel\Activity\caches\transforms-3\eef7cc4b78bc8a095b727078b719585f\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+50            android:name="androidx.startup.InitializationProvider"
+50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ronnel\Activity\caches\transforms-3\eef7cc4b78bc8a095b727078b719585f\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+51            android:authorities="com.remedios.first_application.androidx-startup"
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ronnel\Activity\caches\transforms-3\eef7cc4b78bc8a095b727078b719585f\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+52            android:exported="false" >
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ronnel\Activity\caches\transforms-3\eef7cc4b78bc8a095b727078b719585f\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+53            <meta-data
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ronnel\Activity\caches\transforms-3\eef7cc4b78bc8a095b727078b719585f\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+54                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ronnel\Activity\caches\transforms-3\eef7cc4b78bc8a095b727078b719585f\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+55                android:value="androidx.startup" />
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ronnel\Activity\caches\transforms-3\eef7cc4b78bc8a095b727078b719585f\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+56            <meta-data
+56-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ronnel\Activity\caches\transforms-3\27972364e8222c6eb1951054e5fd1b51\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+57                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+57-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ronnel\Activity\caches\transforms-3\27972364e8222c6eb1951054e5fd1b51\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+58                android:value="androidx.startup" />
+58-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ronnel\Activity\caches\transforms-3\27972364e8222c6eb1951054e5fd1b51\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+59        </provider>
+60    </application>
+61
+62</manifest>

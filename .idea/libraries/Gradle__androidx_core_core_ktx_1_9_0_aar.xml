@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.core:core-ktx:1.9.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Activity/caches/transforms-3/6f1c362f917f25d22179de8b0da49b13/transformed/core-ktx-1.9.0/res" />
+      <root url="file://$USER_HOME$/Activity/caches/transforms-3/6f1c362f917f25d22179de8b0da49b13/transformed/core-ktx-1.9.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Activity/caches/transforms-3/6f1c362f917f25d22179de8b0da49b13/transformed/core-ktx-1.9.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Activity/caches/modules-2/files-2.1/androidx.core/core-ktx/1.9.0/90bc3081943b41096717f4f6ce07351f4de007cc/core-ktx-1.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
